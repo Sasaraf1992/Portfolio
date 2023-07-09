@@ -33,7 +33,7 @@
 
 </details>
 
-<details><summary>Проект 6: Командный проект. </summary>
+<details><summary>Проект 6: Командный проект </summary>
 https://docs.google.com/document/d/14GxoUF-jP3y0RRQw7nVyr9xtFDkTuCnh5k59Dm6PVP0/edit
 https://docs.google.com/document/d/14GxoUF-jP3y0RRQw7nVyr9xtFDkTuCnh5k59Dm6PVP0/edit
 https://docs.google.com/spreadsheets/d/1O7yeuRZoHLcwjHByr-G3b_npqDcye3wVQ8Vl4pTy-EU/edit#gid=899462569
