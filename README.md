@@ -1,7 +1,5 @@
-<details><summary>A dropdown list for markdown</summary>
+<details><summary>Проект 1 - 2: регрессионное тестирование и ретест багов</summary>
 
-   1. First item must be preceeded with an empty line.
-   1. Markdown renders **perfectly**.
-   1. Extra item.
+   https://docs.google.com/document/d/1BeaF1Y2BSoRXTExzpvgdi96TUAe7h_7etRaNmvgHNIw/edit
 
 </details>
