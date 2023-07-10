@@ -68,7 +68,7 @@ https://docs.google.com/spreadsheets/d/1O7yeuRZoHLcwjHByr-G3b_npqDcye3wVQ8Vl4pTy
 
 </details>
 
-<details><summary>Проект 11: разработка автотестов</summary>
+<details><summary>Проект 11: Разработка автотестов</summary>
 
  https://drive.google.com/file/d/1gttJx8doF6b-BgK2KlOB90rkecBuV60F/view?usp=sharing  
    
