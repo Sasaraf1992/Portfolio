@@ -1,16 +1,11 @@
-<details><summary>Проект 1: Регрессионное тестирование и ретест багов</summary>
+<details><summary>Проект 1 - 2: Регрессионное тестирование и ретест багов</summary>
 
    
    https://docs.google.com/document/d/1BeaF1Y2BSoRXTExzpvgdi96TUAe7h_7etRaNmvgHNIw/edit
 
 </details>
 
-<details><summary>Проект 2: Тест-анализ</summary>
 
-   
-   https://docs.google.com/document/d/1lQHWFPErQtc8YBFClqiHGwGUbFgoo8mAsPBLzK-t5I8/edit
-
-</details>
 
 <details><summary>Проект 3: Тест-анализ</summary>
 
